@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuliaSenina/Chat_F.git"
+    "url": "git+https://github.com/MorozovaNadezhda/sse-ws.git"
   },
-  "author": "JuliaSenina",
+  "author": "MorozovaNadezhda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuliaSenina/Chat_F/issues"
+    "url": "https://github.com/MorozovaNadezhda/sse-ws/issues"
   },
-  "homepage": "https://github.com/JuliaSenina/Chat_F#readme",
+  "homepage": "https://github.com/MorozovaNadezhda/sse-ws/#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.2",
